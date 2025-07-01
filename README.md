@@ -1,4 +1,4 @@
-# Japan-Indo Horoscope - Vedic Marriage & Compatibility System
+# Japan Horoscope - Marriage & Compatibility System Based on Indian Astrology
 ### Live Site - https://www.karmaai.jp
 
 A comprehensive PHP-based horoscope matching system with dual prediction capabilities, optimized for Japanese locations.
