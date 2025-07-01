@@ -1,0 +1,164 @@
+/* === Base Font & Colors === */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Zen+Maru+Gothic&display=swap');
+
+body {
+  font-family: 'Noto Sans JP', 'Zen Maru Gothic', sans-serif !important;
+  background-color: #F8FAFC !important;
+  color: #333333 !important;
+  line-height: 1.6 !important;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* === Headings === */
+h1, h2, h3, h4, h5, h6 {
+  color: #ff69b4; /* Hot pink main accent */
+  font-weight: 700;
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 2.4rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+h3 {
+  font-size: 1.4rem;
+}
+
+/* === Links === */
+a {
+  color: #ff69b4 !important;
+  text-decoration: none;
+  transition: color 0.3s ease, transform 0.2s ease;
+}
+
+a:hover,
+a:focus {
+  color: #a23e72 !important; /* Slightly deeper pink */
+  transform: scale(1.05);
+}
+
+/* === Buttons === */
+button, input[type="submit"], .btn {
+  background-color: #6ee7b7; /* Mint green */
+  color: #fff;
+  border: none;
+  border-radius: 12px;
+  padding: 0.6em 1.4em;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(110, 231, 183, 0.4);
+  transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+  user-select: none;
+}
+
+button:hover,
+input[type="submit"]:hover,
+.btn:hover {
+  background-color: #4ccfa1;
+  box-shadow: 0 6px 14px rgba(76, 207, 161, 0.6);
+  transform: scale(1.05);
+}
+
+button:focus,
+input[type="submit"]:focus,
+.btn:focus {
+  outline: 3px solid #a78bfa; /* Lavender focus ring */
+  outline-offset: 2px;
+}
+
+/* === Card Containers === */
+.card, .post, .widget, .content-box {
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.07);
+  padding: 1.6rem 2rem;
+  margin-bottom: 2rem;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card:hover, .post:hover, .widget:hover, .content-box:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+}
+
+/* === Containers & Layout === */
+.container, main, section {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1.5rem 1rem;
+}
+
+/* === Form Elements === */
+input[type="text"],
+input[type="email"],
+textarea,
+select {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  font-size: 1rem;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+textarea:focus,
+select:focus {
+  border-color: #ff69b4;
+  box-shadow: 0 0 6px rgba(255, 105, 180, 0.5);
+  outline: none;
+}
+
+/* === Footer === */
+footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  font-size: 0.9rem;
+  color: #777;
+  background-color: #fef6fb;
+  border-top: 1px solid #f0d6e8;
+}
+
+/* === Subtle Fade-In Animation on Scroll === */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in-up {
+  opacity: 0;
+  animation-name: fadeInUp;
+  animation-duration: 0.8s;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  animation-delay: 0.2s;
+}
+
+/* Utility for spacing consistency */
+.mt-2 { margin-top: 2rem; }
+.mb-2 { margin-bottom: 2rem; }
+
+/* === Responsive tweaks === */
+@media (max-width: 600px) {
+  h1 { font-size: 1.8rem; }
+  h2 { font-size: 1.4rem; }
+  .container { padding: 1rem; }
+  .card { padding: 1.2rem 1.5rem; }
+}

@@ -1,0 +1,2515 @@
+[
+    {
+        "timestamp": "2025-06-26 10:42:52",
+        "id": "match_685d242cd9d382.25878492",
+        "input": {
+            "groom": {
+                "name": "\u7530\u4e2d\u592a\u90ce",
+                "date": "1990-03-15",
+                "time": "08:30",
+                "prefecture": "\u6771\u4eac\u90fd",
+                "city": "\u3042\u304d\u308b\u91ce\u5e02"
+            },
+            "bride": {
+                "name": "\u4f50\u85e4\u82b1\u5b50",
+                "date": "1992-07-22",
+                "time": "14:15",
+                "prefecture": "\u5927\u962a\u5e9c",
+                "city": "\u5927\u962a\u5e02\u5317\u533a"
+            }
+        },
+        "results": {
+            "groom_astrology": {
+                "nakshatra": "Anuradha",
+                "rashi": "Vrishchika",
+                "moon_longitude": 218.13561954547913
+            },
+            "bride_astrology": {
+                "nakshatra": "Bharani",
+                "rashi": "Mesha",
+                "moon_longitude": 25.82234570059518
+            },
+            "vedic_compatibility": {
+                "score": 16,
+                "max_score": 38,
+                "percentage": 42.1,
+                "level": "Average Match \u2b50",
+                "gunas": [
+                    {
+                        "name": "Varna",
+                        "score": 1,
+                        "max": 1
+                    },
+                    {
+                        "name": "Vashya",
+                        "score": 1,
+                        "max": 2
+                    },
+                    {
+                        "name": "Tara",
+                        "score": 3,
+                        "max": 3
+                    },
+                    {
+                        "name": "Yoni",
+                        "score": 0,
+                        "max": 4
+                    },
+                    {
+                        "name": "Graha Maitri",
+                        "score": 4,
+                        "max": 5
+                    },
+                    {
+                        "name": "Gana",
+                        "score": 5,
+                        "max": 6
+                    },
+                    {
+                        "name": "Rashi",
+                        "score": 2,
+                        "max": 7
+                    },
+                    {
+                        "name": "Nadi",
+                        "score": 0,
+                        "max": 8
+                    },
+                    {
+                        "name": "Rajju",
+                        "score": 0,
+                        "max": 2
+                    }
+                ]
+            },
+            "tamil_compatibility": {
+                "score": 5,
+                "max_score": 10,
+                "percentage": 50,
+                "level": "Athamam (Needs Consideration) \u26a0\ufe0f",
+                "poruthams": [
+                    {
+                        "name": "Dhina Porutham",
+                        "score": 1,
+                        "description": "Good for prosperity and health"
+                    },
+                    {
+                        "name": "Gana Porutham",
+                        "score": 1,
+                        "description": "Excellent temperamental compatibility"
+                    },
+                    {
+                        "name": "Mahendra Porutham",
+                        "score": 1,
+                        "description": "Favorable for progeny"
+                    },
+                    {
+                        "name": "Sthree Dheerkam",
+                        "score": 0,
+                        "description": "Longevity concerns"
+                    },
+                    {
+                        "name": "Yoni Porutham",
+                        "score": 0,
+                        "description": "Physical compatibility issues"
+                    },
+                    {
+                        "name": "Rasi Porutham",
+                        "score": 1,
+                        "description": "Good astrological harmony"
+                    },
+                    {
+                        "name": "Rasi Athipathi Porutham",
+                        "score": 1,
+                        "description": "Planetary lords are compatible"
+                    },
+                    {
+                        "name": "Vasiya Porutham",
+                        "score": 0,
+                        "description": "Lack of natural attraction"
+                    },
+                    {
+                        "name": "Rajju Porutham",
+                        "score": 0,
+                        "description": "Rajju dosha present - requires remedies"
+                    },
+                    {
+                        "name": "Vedhai Porutham",
+                        "score": 0,
+                        "description": "Vedhai present - incompatible stars"
+                    }
+                ]
+            },
+            "doshas": [
+                "\ud83d\udd34 Manglik Dosha: \u4f50\u85e4\u82b1\u5b50 is Manglik. This may require remedies or careful consideration.",
+                "\ud83d\udfe1 Kala Sarpa Dosha: \u7530\u4e2d\u592a\u90ce may have Kala Sarpa Dosha."
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-06-26 10:44:58",
+        "id": "match_685d24aa388ba8.35327822",
+        "input": {
+            "groom": {
+                "name": "MK",
+                "date": "1976-08-25",
+                "time": "01:30",
+                "prefecture": "\u57fc\u7389\u770c",
+                "city": "\u6240\u6ca2\u5e02"
+            },
+            "bride": {
+                "name": "Menaka",
+                "date": "1980-10-30",
+                "time": "21:30",
+                "prefecture": "\u57fc\u7389\u770c",
+                "city": "\u6240\u6ca2\u5e02"
+            }
+        },
+        "results": {
+            "groom_astrology": {
+                "nakshatra": "Purva Phalguni",
+                "rashi": "Simha",
+                "moon_longitude": 146.3503998717497
+            },
+            "bride_astrology": {
+                "nakshatra": "Magha",
+                "rashi": "Simha",
+                "moon_longitude": 129.87929426974733
+            },
+            "vedic_compatibility": {
+                "score": 30.5,
+                "max_score": 38,
+                "percentage": 80.3,
+                "level": "Excellent Match! \ud83c\udf1f",
+                "gunas": [
+                    {
+                        "name": "Varna",
+                        "score": 1,
+                        "max": 1
+                    },
+                    {
+                        "name": "Vashya",
+                        "score": 2,
+                        "max": 2
+                    },
+                    {
+                        "name": "Tara",
+                        "score": 1.5,
+                        "max": 3
+                    },
+                    {
+                        "name": "Yoni",
+                        "score": 4,
+                        "max": 4
+                    },
+                    {
+                        "name": "Graha Maitri",
+                        "score": 0,
+                        "max": 5
+                    },
+                    {
+                        "name": "Gana",
+                        "score": 5,
+                        "max": 6
+                    },
+                    {
+                        "name": "Rashi",
+                        "score": 7,
+                        "max": 7
+                    },
+                    {
+                        "name": "Nadi",
+                        "score": 8,
+                        "max": 8
+                    },
+                    {
+                        "name": "Rajju",
+                        "score": 2,
+                        "max": 2
+                    }
+                ]
+            },
+            "tamil_compatibility": {
+                "score": 5,
+                "max_score": 10,
+                "percentage": 50,
+                "level": "Athamam (Needs Consideration) \u26a0\ufe0f",
+                "poruthams": [
+                    {
+                        "name": "Dhina Porutham",
+                        "score": 0,
+                        "description": "May face health challenges"
+                    },
+                    {
+                        "name": "Gana Porutham",
+                        "score": 0,
+                        "description": "Temperamental differences"
+                    },
+                    {
+                        "name": "Mahendra Porutham",
+                        "score": 0,
+                        "description": "May affect children prospects"
+                    },
+                    {
+                        "name": "Sthree Dheerkam",
+                        "score": 0,
+                        "description": "Longevity concerns"
+                    },
+                    {
+                        "name": "Yoni Porutham",
+                        "score": 0,
+                        "description": "Physical compatibility issues"
+                    },
+                    {
+                        "name": "Rasi Porutham",
+                        "score": 1,
+                        "description": "Good astrological harmony"
+                    },
+                    {
+                        "name": "Rasi Athipathi Porutham",
+                        "score": 1,
+                        "description": "Planetary lords are compatible"
+                    },
+                    {
+                        "name": "Vasiya Porutham",
+                        "score": 1,
+                        "description": "Strong mutual attraction"
+                    },
+                    {
+                        "name": "Rajju Porutham",
+                        "score": 1,
+                        "description": "No Rajju dosha - good for marriage"
+                    },
+                    {
+                        "name": "Vedhai Porutham",
+                        "score": 1,
+                        "description": "No Vedhai - compatibility confirmed"
+                    }
+                ]
+            },
+            "doshas": [
+                "\ud83d\udd34 Manglik Dosha: MK is Manglik. This may require remedies or careful consideration.",
+                "\u2705 Kala Sarpa Dosha: No Kala Sarpa Dosha detected. This is favorable."
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-06-26 10:45:29",
+        "id": "match_685d24c9947155.81370420",
+        "input": {
+            "groom": {
+                "name": "MK",
+                "date": "1976-08-25",
+                "time": "01:30",
+                "prefecture": "\u57fc\u7389\u770c",
+                "city": "\u6240\u6ca2\u5e02"
+            },
+            "bride": {
+                "name": "Menaka",
+                "date": "1980-10-30",
+                "time": "21:30",
+                "prefecture": "\u57fc\u7389\u770c",
+                "city": "\u6240\u6ca2\u5e02"
+            }
+        },
+        "results": {
+            "groom_astrology": {
+                "nakshatra": "Purva Phalguni",
+                "rashi": "Simha",
+                "moon_longitude": 146.3503998717497
+            },
+            "bride_astrology": {
+                "nakshatra": "Magha",
+                "rashi": "Simha",
+                "moon_longitude": 129.87929426974733
+            },
+            "vedic_compatibility": {
+                "score": 30.5,
+                "max_score": 38,
+                "percentage": 80.3,
+                "level": "Excellent Match! \ud83c\udf1f",
+                "gunas": [
+                    {
+                        "name": "Varna",
+                        "score": 1,
+                        "max": 1
+                    },
+                    {
+                        "name": "Vashya",
+                        "score": 2,
+                        "max": 2
+                    },
+                    {
+                        "name": "Tara",
+                        "score": 1.5,
+                        "max": 3
+                    },
+                    {
+                        "name": "Yoni",
+                        "score": 4,
+                        "max": 4
+                    },
+                    {
+                        "name": "Graha Maitri",
+                        "score": 0,
+                        "max": 5
+                    },
+                    {
+                        "name": "Gana",
+                        "score": 5,
+                        "max": 6
+                    },
+                    {
+                        "name": "Rashi",
+                        "score": 7,
+                        "max": 7
+                    },
+                    {
+                        "name": "Nadi",
+                        "score": 8,
+                        "max": 8
+                    },
+                    {
+                        "name": "Rajju",
+                        "score": 2,
+                        "max": 2
+                    }
+                ]
+            },
+            "tamil_compatibility": {
+                "score": 5,
+                "max_score": 10,
+                "percentage": 50,
+                "level": "Athamam (Needs Consideration) \u26a0\ufe0f",
+                "poruthams": [
+                    {
+                        "name": "Dhina Porutham",
+                        "score": 0,
+                        "description": "May face health challenges"
+                    },
+                    {
+                        "name": "Gana Porutham",
+                        "score": 0,
+                        "description": "Temperamental differences"
+                    },
+                    {
+                        "name": "Mahendra Porutham",
+                        "score": 0,
+                        "description": "May affect children prospects"
+                    },
+                    {
+                        "name": "Sthree Dheerkam",
+                        "score": 0,
+                        "description": "Longevity concerns"
+                    },
+                    {
+                        "name": "Yoni Porutham",
+                        "score": 0,
+                        "description": "Physical compatibility issues"
+                    },
+                    {
+                        "name": "Rasi Porutham",
+                        "score": 1,
+                        "description": "Good astrological harmony"
+                    },
+                    {
+                        "name": "Rasi Athipathi Porutham",
+                        "score": 1,
+                        "description": "Planetary lords are compatible"
+                    },
+                    {
+                        "name": "Vasiya Porutham",
+                        "score": 1,
+                        "description": "Strong mutual attraction"
+                    },
+                    {
+                        "name": "Rajju Porutham",
+                        "score": 1,
+                        "description": "No Rajju dosha - good for marriage"
+                    },
+                    {
+                        "name": "Vedhai Porutham",
+                        "score": 1,
+                        "description": "No Vedhai - compatibility confirmed"
+                    }
+                ]
+            },
+            "doshas": [
+                "\ud83d\udd34 Manglik Dosha: MK is Manglik. This may require remedies or careful consideration.",
+                "\u2705 Kala Sarpa Dosha: No Kala Sarpa Dosha detected. This is favorable."
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-06-26 10:57:59",
+        "id": "match_685d27b7cd2ed6.94461733",
+        "input": {
+            "groom": {
+                "name": "MK",
+                "date": "1976-08-25",
+                "time": "01:30",
+                "prefecture": "\u57fc\u7389\u770c",
+                "city": "\u6240\u6ca2\u5e02"
+            },
+            "bride": {
+                "name": "Menaka",
+                "date": "1980-10-30",
+                "time": "21:30",
+                "prefecture": "\u57fc\u7389\u770c",
+                "city": "\u6240\u6ca2\u5e02"
+            }
+        },
+        "results": {
+            "groom_astrology": {
+                "nakshatra": "Purva Phalguni",
+                "rashi": "Simha",
+                "moon_longitude": 146.3503998717497
+            },
+            "bride_astrology": {
+                "nakshatra": "Magha",
+                "rashi": "Simha",
+                "moon_longitude": 129.87929426974733
+            },
+            "vedic_compatibility": {
+                "score": 30.5,
+                "max_score": 38,
+                "percentage": 80.3,
+                "level": "Excellent Match! \ud83c\udf1f",
+                "gunas": [
+                    {
+                        "name": "Varna",
+                        "score": 1,
+                        "max": 1
+                    },
+                    {
+                        "name": "Vashya",
+                        "score": 2,
+                        "max": 2
+                    },
+                    {
+                        "name": "Tara",
+                        "score": 1.5,
+                        "max": 3
+                    },
+                    {
+                        "name": "Yoni",
+                        "score": 4,
+                        "max": 4
+                    },
+                    {
+                        "name": "Graha Maitri",
+                        "score": 0,
+                        "max": 5
+                    },
+                    {
+                        "name": "Gana",
+                        "score": 5,
+                        "max": 6
+                    },
+                    {
+                        "name": "Rashi",
+                        "score": 7,
+                        "max": 7
+                    },
+                    {
+                        "name": "Nadi",
+                        "score": 8,
+                        "max": 8
+                    },
+                    {
+                        "name": "Rajju",
+                        "score": 2,
+                        "max": 2
+                    }
+                ]
+            },
+            "tamil_compatibility": {
+                "score": 5,
+                "max_score": 10,
+                "percentage": 50,
+                "level": "Athamam (Needs Consideration) \u26a0\ufe0f",
+                "poruthams": [
+                    {
+                        "name": "Dhina Porutham",
+                        "score": 0,
+                        "description": "May face health challenges"
+                    },
+                    {
+                        "name": "Gana Porutham",
+                        "score": 0,
+                        "description": "Temperamental differences"
+                    },
+                    {
+                        "name": "Mahendra Porutham",
+                        "score": 0,
+                        "description": "May affect children prospects"
+                    },
+                    {
+                        "name": "Sthree Dheerkam",
+                        "score": 0,
+                        "description": "Longevity concerns"
+                    },
+                    {
+                        "name": "Yoni Porutham",
+                        "score": 0,
+                        "description": "Physical compatibility issues"
+                    },
+                    {
+                        "name": "Rasi Porutham",
+                        "score": 1,
+                        "description": "Good astrological harmony"
+                    },
+                    {
+                        "name": "Rasi Athipathi Porutham",
+                        "score": 1,
+                        "description": "Planetary lords are compatible"
+                    },
+                    {
+                        "name": "Vasiya Porutham",
+                        "score": 1,
+                        "description": "Strong mutual attraction"
+                    },
+                    {
+                        "name": "Rajju Porutham",
+                        "score": 1,
+                        "description": "No Rajju dosha - good for marriage"
+                    },
+                    {
+                        "name": "Vedhai Porutham",
+                        "score": 1,
+                        "description": "No Vedhai - compatibility confirmed"
+                    }
+                ]
+            },
+            "doshas": [
+                "\ud83d\udd34 Manglik Dosha: MK is Manglik. This may require remedies or careful consideration.",
+                "\u2705 Kala Sarpa Dosha: No Kala Sarpa Dosha detected. This is favorable."
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-06-26 10:58:38",
+        "id": "match_685d27debc9552.63736639",
+        "input": {
+            "groom": {
+                "name": "MK",
+                "date": "1976-08-25",
+                "time": "01:30",
+                "prefecture": "\u57fc\u7389\u770c",
+                "city": "\u6240\u6ca2\u5e02"
+            },
+            "bride": {
+                "name": "Menaka",
+                "date": "1980-10-30",
+                "time": "21:30",
+                "prefecture": "\u57fc\u7389\u770c",
+                "city": "\u6240\u6ca2\u5e02"
+            }
+        },
+        "results": {
+            "groom_astrology": {
+                "nakshatra": "Purva Phalguni",
+                "rashi": "Simha",
+                "moon_longitude": 146.3503998717497
+            },
+            "bride_astrology": {
+                "nakshatra": "Magha",
+                "rashi": "Simha",
+                "moon_longitude": 129.87929426974733
+            },
+            "vedic_compatibility": {
+                "score": 30.5,
+                "max_score": 38,
+                "percentage": 80.3,
+                "level": "Excellent Match! \ud83c\udf1f",
+                "gunas": [
+                    {
+                        "name": "Varna",
+                        "score": 1,
+                        "max": 1
+                    },
+                    {
+                        "name": "Vashya",
+                        "score": 2,
+                        "max": 2
+                    },
+                    {
+                        "name": "Tara",
+                        "score": 1.5,
+                        "max": 3
+                    },
+                    {
+                        "name": "Yoni",
+                        "score": 4,
+                        "max": 4
+                    },
+                    {
+                        "name": "Graha Maitri",
+                        "score": 0,
+                        "max": 5
+                    },
+                    {
+                        "name": "Gana",
+                        "score": 5,
+                        "max": 6
+                    },
+                    {
+                        "name": "Rashi",
+                        "score": 7,
+                        "max": 7
+                    },
+                    {
+                        "name": "Nadi",
+                        "score": 8,
+                        "max": 8
+                    },
+                    {
+                        "name": "Rajju",
+                        "score": 2,
+                        "max": 2
+                    }
+                ]
+            },
+            "tamil_compatibility": {
+                "score": 5,
+                "max_score": 10,
+                "percentage": 50,
+                "level": "Athamam (Needs Consideration) \u26a0\ufe0f",
+                "poruthams": [
+                    {
+                        "name": "Dhina Porutham",
+                        "score": 0,
+                        "description": "May face health challenges"
+                    },
+                    {
+                        "name": "Gana Porutham",
+                        "score": 0,
+                        "description": "Temperamental differences"
+                    },
+                    {
+                        "name": "Mahendra Porutham",
+                        "score": 0,
+                        "description": "May affect children prospects"
+                    },
+                    {
+                        "name": "Sthree Dheerkam",
+                        "score": 0,
+                        "description": "Longevity concerns"
+                    },
+                    {
+                        "name": "Yoni Porutham",
+                        "score": 0,
+                        "description": "Physical compatibility issues"
+                    },
+                    {
+                        "name": "Rasi Porutham",
+                        "score": 1,
+                        "description": "Good astrological harmony"
+                    },
+                    {
+                        "name": "Rasi Athipathi Porutham",
+                        "score": 1,
+                        "description": "Planetary lords are compatible"
+                    },
+                    {
+                        "name": "Vasiya Porutham",
+                        "score": 1,
+                        "description": "Strong mutual attraction"
+                    },
+                    {
+                        "name": "Rajju Porutham",
+                        "score": 1,
+                        "description": "No Rajju dosha - good for marriage"
+                    },
+                    {
+                        "name": "Vedhai Porutham",
+                        "score": 1,
+                        "description": "No Vedhai - compatibility confirmed"
+                    }
+                ]
+            },
+            "doshas": [
+                "\ud83d\udd34 Manglik Dosha: MK is Manglik. This may require remedies or careful consideration.",
+                "\ud83d\udfe1 Kala Sarpa Dosha: MK may have Kala Sarpa Dosha."
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-06-28 02:53:57",
+        "id": "match_685f594515f5f5.42082508",
+        "input": {
+            "groom": {
+                "name_hash": "Anonymous",
+                "date": "2025-06-27",
+                "time": "12:22",
+                "prefecture": "\u5c71\u5f62\u770c",
+                "city": "\u5929\u7ae5\u5e02"
+            },
+            "bride": {
+                "name_hash": "Anonymous",
+                "date": "2025-07-05",
+                "time": "06:06",
+                "prefecture": "\u5343\u8449\u770c",
+                "city": "\u52dd\u6d66\u5e02"
+            }
+        },
+        "results": {
+            "groom_astrology": {
+                "nakshatra": "Magha",
+                "rashi": "Simha",
+                "moon_longitude": 123.56200022081612
+            },
+            "bride_astrology": {
+                "nakshatra": "Anuradha",
+                "rashi": "Vrishchika",
+                "moon_longitude": 220.24692867559497
+            },
+            "vedic_compatibility": {
+                "score": 14.5,
+                "max_score": 38,
+                "percentage": 38.2,
+                "level": "\u56f0\u96e3\u306a\u76f8\u6027 \u26a0\ufe0f",
+                "gunas": [
+                    {
+                        "name": "Varna",
+                        "score": 1,
+                        "max": 1
+                    },
+                    {
+                        "name": "Vashya",
+                        "score": 0,
+                        "max": 2
+                    },
+                    {
+                        "name": "Tara",
+                        "score": 1.5,
+                        "max": 3
+                    },
+                    {
+                        "name": "Yoni",
+                        "score": 0,
+                        "max": 4
+                    },
+                    {
+                        "name": "Graha Maitri",
+                        "score": 0,
+                        "max": 5
+                    },
+                    {
+                        "name": "Gana",
+                        "score": 0,
+                        "max": 6
+                    },
+                    {
+                        "name": "Rashi",
+                        "score": 2,
+                        "max": 7
+                    },
+                    {
+                        "name": "Nadi",
+                        "score": 8,
+                        "max": 8
+                    },
+                    {
+                        "name": "Rajju",
+                        "score": 2,
+                        "max": 2
+                    }
+                ]
+            },
+            "tamil_compatibility": {
+                "score": 6,
+                "max_score": 10,
+                "percentage": 60,
+                "level": "\u30de\u30c6\u30a3\u30de\u30e0\uff08\u826f\u3044\u76f8\u6027\uff09\ud83d\udcab",
+                "poruthams": [
+                    {
+                        "name": "Dhina Porutham",
+                        "score": 1,
+                        "description": "\u5065\u5eb7\u3068\u7e41\u6804\u306b\u826f\u3044\u5f71\u97ff\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Gana Porutham",
+                        "score": 0,
+                        "description": "\u6c17\u8cea\u306e\u9055\u3044\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Mahendra Porutham",
+                        "score": 0,
+                        "description": "\u5b50\u4f9b\u306e\u898b\u901a\u3057\u306b\u5f71\u97ff\u3059\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Sthree Dheerkam",
+                        "score": 1,
+                        "description": "\u9577\u5bff\u3068\u7e41\u6804\u306b\u826f\u3044\u5f71\u97ff\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Yoni Porutham",
+                        "score": 0,
+                        "description": "\u8eab\u4f53\u7684\u76f8\u6027\u306b\u554f\u984c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Porutham",
+                        "score": 1,
+                        "description": "\u826f\u597d\u306a\u5360\u661f\u8853\u7684\u8abf\u548c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Athipathi Porutham",
+                        "score": 1,
+                        "description": "\u60d1\u661f\u306e\u652f\u914d\u8005\u304c\u76f8\u6027\u826f\u597d\u3067\u3059"
+                    },
+                    {
+                        "name": "Vasiya Porutham",
+                        "score": 0,
+                        "description": "\u81ea\u7136\u306a\u9b45\u529b\u304c\u4e0d\u8db3\u3057\u3066\u3044\u307e\u3059"
+                    },
+                    {
+                        "name": "Rajju Porutham",
+                        "score": 1,
+                        "description": "\u30e9\u30c3\u30b8\u30e5\u30fb\u30c9\u30fc\u30b7\u30e3\u306a\u3057 - \u7d50\u5a5a\u306b\u826f\u597d\u3067\u3059"
+                    },
+                    {
+                        "name": "Vedhai Porutham",
+                        "score": 1,
+                        "description": "\u30f4\u30a7\u30fc\u30c0\u30a4\u306a\u3057 - \u76f8\u6027\u304c\u78ba\u8a8d\u3055\u308c\u307e\u3057\u305f"
+                    }
+                ]
+            },
+            "doshas": [
+                "\ud83d\udd34 \u30de\u30f3\u30b0\u30ea\u30af\u30fb\u30c9\u30fc\u30b7\u30e3\uff1a\u4e21\u8005\u3068\u3082\u306b\u30de\u30f3\u30b0\u30ea\u30af\u3067\u3059\u3002\u540c\u3058\u30a8\u30cd\u30eb\u30ae\u30fc\u3092\u6301\u3064\u305f\u3081\u3001\u6709\u5229\u3068\u3055\u308c\u308b\u5834\u5408\u304c\u3042\u308a\u307e\u3059\u3002",
+                "\u2705 \u30ab\u30e9\u30fb\u30b5\u30eb\u30d1\u30fb\u30c9\u30fc\u30b7\u30e3\uff1a\u691c\u51fa\u3055\u308c\u307e\u305b\u3093\u3067\u3057\u305f\u3002\u3053\u308c\u306f\u5409\u5146\u3067\u3059\u3002"
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-06-28 02:54:03",
+        "id": "match_685f594b237628.38774208",
+        "input": {
+            "groom": {
+                "name_hash": "Anonymous",
+                "date": "2025-06-27",
+                "time": "12:22",
+                "prefecture": "\u5c71\u5f62\u770c",
+                "city": "\u5929\u7ae5\u5e02"
+            },
+            "bride": {
+                "name_hash": "Anonymous",
+                "date": "2025-07-05",
+                "time": "06:06",
+                "prefecture": "\u5343\u8449\u770c",
+                "city": "\u52dd\u6d66\u5e02"
+            }
+        },
+        "results": {
+            "groom_astrology": {
+                "nakshatra": "Magha",
+                "rashi": "Simha",
+                "moon_longitude": 123.56200022081612
+            },
+            "bride_astrology": {
+                "nakshatra": "Anuradha",
+                "rashi": "Vrishchika",
+                "moon_longitude": 220.24692867559497
+            },
+            "vedic_compatibility": {
+                "score": 14.5,
+                "max_score": 38,
+                "percentage": 38.2,
+                "level": "\u56f0\u96e3\u306a\u76f8\u6027 \u26a0\ufe0f",
+                "gunas": [
+                    {
+                        "name": "Varna",
+                        "score": 1,
+                        "max": 1
+                    },
+                    {
+                        "name": "Vashya",
+                        "score": 0,
+                        "max": 2
+                    },
+                    {
+                        "name": "Tara",
+                        "score": 1.5,
+                        "max": 3
+                    },
+                    {
+                        "name": "Yoni",
+                        "score": 0,
+                        "max": 4
+                    },
+                    {
+                        "name": "Graha Maitri",
+                        "score": 0,
+                        "max": 5
+                    },
+                    {
+                        "name": "Gana",
+                        "score": 0,
+                        "max": 6
+                    },
+                    {
+                        "name": "Rashi",
+                        "score": 2,
+                        "max": 7
+                    },
+                    {
+                        "name": "Nadi",
+                        "score": 8,
+                        "max": 8
+                    },
+                    {
+                        "name": "Rajju",
+                        "score": 2,
+                        "max": 2
+                    }
+                ]
+            },
+            "tamil_compatibility": {
+                "score": 6,
+                "max_score": 10,
+                "percentage": 60,
+                "level": "\u30de\u30c6\u30a3\u30de\u30e0\uff08\u826f\u3044\u76f8\u6027\uff09\ud83d\udcab",
+                "poruthams": [
+                    {
+                        "name": "Dhina Porutham",
+                        "score": 1,
+                        "description": "\u5065\u5eb7\u3068\u7e41\u6804\u306b\u826f\u3044\u5f71\u97ff\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Gana Porutham",
+                        "score": 0,
+                        "description": "\u6c17\u8cea\u306e\u9055\u3044\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Mahendra Porutham",
+                        "score": 0,
+                        "description": "\u5b50\u4f9b\u306e\u898b\u901a\u3057\u306b\u5f71\u97ff\u3059\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Sthree Dheerkam",
+                        "score": 1,
+                        "description": "\u9577\u5bff\u3068\u7e41\u6804\u306b\u826f\u3044\u5f71\u97ff\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Yoni Porutham",
+                        "score": 0,
+                        "description": "\u8eab\u4f53\u7684\u76f8\u6027\u306b\u554f\u984c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Porutham",
+                        "score": 1,
+                        "description": "\u826f\u597d\u306a\u5360\u661f\u8853\u7684\u8abf\u548c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Athipathi Porutham",
+                        "score": 1,
+                        "description": "\u60d1\u661f\u306e\u652f\u914d\u8005\u304c\u76f8\u6027\u826f\u597d\u3067\u3059"
+                    },
+                    {
+                        "name": "Vasiya Porutham",
+                        "score": 0,
+                        "description": "\u81ea\u7136\u306a\u9b45\u529b\u304c\u4e0d\u8db3\u3057\u3066\u3044\u307e\u3059"
+                    },
+                    {
+                        "name": "Rajju Porutham",
+                        "score": 1,
+                        "description": "\u30e9\u30c3\u30b8\u30e5\u30fb\u30c9\u30fc\u30b7\u30e3\u306a\u3057 - \u7d50\u5a5a\u306b\u826f\u597d\u3067\u3059"
+                    },
+                    {
+                        "name": "Vedhai Porutham",
+                        "score": 1,
+                        "description": "\u30f4\u30a7\u30fc\u30c0\u30a4\u306a\u3057 - \u76f8\u6027\u304c\u78ba\u8a8d\u3055\u308c\u307e\u3057\u305f"
+                    }
+                ]
+            },
+            "doshas": [
+                "\ud83d\udd34 \u30de\u30f3\u30b0\u30ea\u30af\u30fb\u30c9\u30fc\u30b7\u30e3\uff1a\u4e21\u8005\u3068\u3082\u306b\u30de\u30f3\u30b0\u30ea\u30af\u3067\u3059\u3002\u540c\u3058\u30a8\u30cd\u30eb\u30ae\u30fc\u3092\u6301\u3064\u305f\u3081\u3001\u6709\u5229\u3068\u3055\u308c\u308b\u5834\u5408\u304c\u3042\u308a\u307e\u3059\u3002",
+                "\u2705 \u30ab\u30e9\u30fb\u30b5\u30eb\u30d1\u30fb\u30c9\u30fc\u30b7\u30e3\uff1a\u691c\u51fa\u3055\u308c\u307e\u305b\u3093\u3067\u3057\u305f\u3002\u3053\u308c\u306f\u5409\u5146\u3067\u3059\u3002"
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-06-28 02:54:10",
+        "id": "match_685f5952344a17.92422121",
+        "input": {
+            "groom": {
+                "name_hash": "Anonymous",
+                "date": "2025-06-27",
+                "time": "12:22",
+                "prefecture": "\u5c71\u5f62\u770c",
+                "city": "\u5929\u7ae5\u5e02"
+            },
+            "bride": {
+                "name_hash": "Anonymous",
+                "date": "2025-07-05",
+                "time": "06:06",
+                "prefecture": "\u5343\u8449\u770c",
+                "city": "\u52dd\u6d66\u5e02"
+            }
+        },
+        "results": {
+            "groom_astrology": {
+                "nakshatra": "Magha",
+                "rashi": "Simha",
+                "moon_longitude": 123.56200022081612
+            },
+            "bride_astrology": {
+                "nakshatra": "Anuradha",
+                "rashi": "Vrishchika",
+                "moon_longitude": 220.24692867559497
+            },
+            "vedic_compatibility": {
+                "score": 14.5,
+                "max_score": 38,
+                "percentage": 38.2,
+                "level": "\u56f0\u96e3\u306a\u76f8\u6027 \u26a0\ufe0f",
+                "gunas": [
+                    {
+                        "name": "Varna",
+                        "score": 1,
+                        "max": 1
+                    },
+                    {
+                        "name": "Vashya",
+                        "score": 0,
+                        "max": 2
+                    },
+                    {
+                        "name": "Tara",
+                        "score": 1.5,
+                        "max": 3
+                    },
+                    {
+                        "name": "Yoni",
+                        "score": 0,
+                        "max": 4
+                    },
+                    {
+                        "name": "Graha Maitri",
+                        "score": 0,
+                        "max": 5
+                    },
+                    {
+                        "name": "Gana",
+                        "score": 0,
+                        "max": 6
+                    },
+                    {
+                        "name": "Rashi",
+                        "score": 2,
+                        "max": 7
+                    },
+                    {
+                        "name": "Nadi",
+                        "score": 8,
+                        "max": 8
+                    },
+                    {
+                        "name": "Rajju",
+                        "score": 2,
+                        "max": 2
+                    }
+                ]
+            },
+            "tamil_compatibility": {
+                "score": 6,
+                "max_score": 10,
+                "percentage": 60,
+                "level": "\u30de\u30c6\u30a3\u30de\u30e0\uff08\u826f\u3044\u76f8\u6027\uff09\ud83d\udcab",
+                "poruthams": [
+                    {
+                        "name": "Dhina Porutham",
+                        "score": 1,
+                        "description": "\u5065\u5eb7\u3068\u7e41\u6804\u306b\u826f\u3044\u5f71\u97ff\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Gana Porutham",
+                        "score": 0,
+                        "description": "\u6c17\u8cea\u306e\u9055\u3044\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Mahendra Porutham",
+                        "score": 0,
+                        "description": "\u5b50\u4f9b\u306e\u898b\u901a\u3057\u306b\u5f71\u97ff\u3059\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Sthree Dheerkam",
+                        "score": 1,
+                        "description": "\u9577\u5bff\u3068\u7e41\u6804\u306b\u826f\u3044\u5f71\u97ff\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Yoni Porutham",
+                        "score": 0,
+                        "description": "\u8eab\u4f53\u7684\u76f8\u6027\u306b\u554f\u984c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Porutham",
+                        "score": 1,
+                        "description": "\u826f\u597d\u306a\u5360\u661f\u8853\u7684\u8abf\u548c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Athipathi Porutham",
+                        "score": 1,
+                        "description": "\u60d1\u661f\u306e\u652f\u914d\u8005\u304c\u76f8\u6027\u826f\u597d\u3067\u3059"
+                    },
+                    {
+                        "name": "Vasiya Porutham",
+                        "score": 0,
+                        "description": "\u81ea\u7136\u306a\u9b45\u529b\u304c\u4e0d\u8db3\u3057\u3066\u3044\u307e\u3059"
+                    },
+                    {
+                        "name": "Rajju Porutham",
+                        "score": 1,
+                        "description": "\u30e9\u30c3\u30b8\u30e5\u30fb\u30c9\u30fc\u30b7\u30e3\u306a\u3057 - \u7d50\u5a5a\u306b\u826f\u597d\u3067\u3059"
+                    },
+                    {
+                        "name": "Vedhai Porutham",
+                        "score": 1,
+                        "description": "\u30f4\u30a7\u30fc\u30c0\u30a4\u306a\u3057 - \u76f8\u6027\u304c\u78ba\u8a8d\u3055\u308c\u307e\u3057\u305f"
+                    }
+                ]
+            },
+            "doshas": [
+                "\ud83d\udd34 \u30de\u30f3\u30b0\u30ea\u30af\u30fb\u30c9\u30fc\u30b7\u30e3\uff1a\u4e21\u8005\u3068\u3082\u306b\u30de\u30f3\u30b0\u30ea\u30af\u3067\u3059\u3002\u540c\u3058\u30a8\u30cd\u30eb\u30ae\u30fc\u3092\u6301\u3064\u305f\u3081\u3001\u6709\u5229\u3068\u3055\u308c\u308b\u5834\u5408\u304c\u3042\u308a\u307e\u3059\u3002",
+                "\ud83d\udfe1 \u30ab\u30e9\u30fb\u30b5\u30eb\u30d1\u30fb\u30c9\u30fc\u30b7\u30e3\uff1a \ud83d\udc69 \u306b\u30ab\u30e9\u30fb\u30b5\u30eb\u30d1\u30fb\u30c9\u30fc\u30b7\u30e3\u306e\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059\u3002"
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-06-28 02:55:09",
+        "id": "match_685f598dce7b25.95911446",
+        "input": {
+            "groom": {
+                "name_hash": "Anonymous",
+                "date": "2025-06-27",
+                "time": "12:22",
+                "prefecture": "\u5c71\u5f62\u770c",
+                "city": "\u5929\u7ae5\u5e02"
+            },
+            "bride": {
+                "name_hash": "Anonymous",
+                "date": "2025-07-05",
+                "time": "06:06",
+                "prefecture": "\u5343\u8449\u770c",
+                "city": "\u52dd\u6d66\u5e02"
+            }
+        },
+        "results": {
+            "groom_astrology": {
+                "nakshatra": "Magha",
+                "rashi": "Simha",
+                "moon_longitude": 123.56200022081612
+            },
+            "bride_astrology": {
+                "nakshatra": "Anuradha",
+                "rashi": "Vrishchika",
+                "moon_longitude": 220.24692867559497
+            },
+            "vedic_compatibility": {
+                "score": 14.5,
+                "max_score": 38,
+                "percentage": 38.2,
+                "level": "\u56f0\u96e3\u306a\u76f8\u6027 \u26a0\ufe0f",
+                "gunas": [
+                    {
+                        "name": "Varna",
+                        "score": 1,
+                        "max": 1
+                    },
+                    {
+                        "name": "Vashya",
+                        "score": 0,
+                        "max": 2
+                    },
+                    {
+                        "name": "Tara",
+                        "score": 1.5,
+                        "max": 3
+                    },
+                    {
+                        "name": "Yoni",
+                        "score": 0,
+                        "max": 4
+                    },
+                    {
+                        "name": "Graha Maitri",
+                        "score": 0,
+                        "max": 5
+                    },
+                    {
+                        "name": "Gana",
+                        "score": 0,
+                        "max": 6
+                    },
+                    {
+                        "name": "Rashi",
+                        "score": 2,
+                        "max": 7
+                    },
+                    {
+                        "name": "Nadi",
+                        "score": 8,
+                        "max": 8
+                    },
+                    {
+                        "name": "Rajju",
+                        "score": 2,
+                        "max": 2
+                    }
+                ]
+            },
+            "tamil_compatibility": {
+                "score": 6,
+                "max_score": 10,
+                "percentage": 60,
+                "level": "\u30de\u30c6\u30a3\u30de\u30e0\uff08\u826f\u3044\u76f8\u6027\uff09\ud83d\udcab",
+                "poruthams": [
+                    {
+                        "name": "Dhina Porutham",
+                        "score": 1,
+                        "description": "\u5065\u5eb7\u3068\u7e41\u6804\u306b\u826f\u3044\u5f71\u97ff\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Gana Porutham",
+                        "score": 0,
+                        "description": "\u6c17\u8cea\u306e\u9055\u3044\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Mahendra Porutham",
+                        "score": 0,
+                        "description": "\u5b50\u4f9b\u306e\u898b\u901a\u3057\u306b\u5f71\u97ff\u3059\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Sthree Dheerkam",
+                        "score": 1,
+                        "description": "\u9577\u5bff\u3068\u7e41\u6804\u306b\u826f\u3044\u5f71\u97ff\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Yoni Porutham",
+                        "score": 0,
+                        "description": "\u8eab\u4f53\u7684\u76f8\u6027\u306b\u554f\u984c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Porutham",
+                        "score": 1,
+                        "description": "\u826f\u597d\u306a\u5360\u661f\u8853\u7684\u8abf\u548c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Athipathi Porutham",
+                        "score": 1,
+                        "description": "\u60d1\u661f\u306e\u652f\u914d\u8005\u304c\u76f8\u6027\u826f\u597d\u3067\u3059"
+                    },
+                    {
+                        "name": "Vasiya Porutham",
+                        "score": 0,
+                        "description": "\u81ea\u7136\u306a\u9b45\u529b\u304c\u4e0d\u8db3\u3057\u3066\u3044\u307e\u3059"
+                    },
+                    {
+                        "name": "Rajju Porutham",
+                        "score": 1,
+                        "description": "\u30e9\u30c3\u30b8\u30e5\u30fb\u30c9\u30fc\u30b7\u30e3\u306a\u3057 - \u7d50\u5a5a\u306b\u826f\u597d\u3067\u3059"
+                    },
+                    {
+                        "name": "Vedhai Porutham",
+                        "score": 1,
+                        "description": "\u30f4\u30a7\u30fc\u30c0\u30a4\u306a\u3057 - \u76f8\u6027\u304c\u78ba\u8a8d\u3055\u308c\u307e\u3057\u305f"
+                    }
+                ]
+            },
+            "doshas": [
+                "\ud83d\udd34 \u30de\u30f3\u30b0\u30ea\u30af\u30fb\u30c9\u30fc\u30b7\u30e3\uff1a\u4e21\u8005\u3068\u3082\u306b\u30de\u30f3\u30b0\u30ea\u30af\u3067\u3059\u3002\u540c\u3058\u30a8\u30cd\u30eb\u30ae\u30fc\u3092\u6301\u3064\u305f\u3081\u3001\u6709\u5229\u3068\u3055\u308c\u308b\u5834\u5408\u304c\u3042\u308a\u307e\u3059\u3002",
+                "\u2705 \u30ab\u30e9\u30fb\u30b5\u30eb\u30d1\u30fb\u30c9\u30fc\u30b7\u30e3\uff1a\u691c\u51fa\u3055\u308c\u307e\u305b\u3093\u3067\u3057\u305f\u3002\u3053\u308c\u306f\u5409\u5146\u3067\u3059\u3002"
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-06-28 02:59:24",
+        "id": "match_685f5a8c449434.61380588",
+        "input": {
+            "groom": {
+                "name_hash": "Anonymous",
+                "date": "2025-06-27",
+                "time": "12:22",
+                "prefecture": "\u5c71\u5f62\u770c",
+                "city": "\u5929\u7ae5\u5e02"
+            },
+            "bride": {
+                "name_hash": "Anonymous",
+                "date": "2025-07-05",
+                "time": "06:06",
+                "prefecture": "\u5343\u8449\u770c",
+                "city": "\u52dd\u6d66\u5e02"
+            }
+        },
+        "results": {
+            "groom_astrology": {
+                "nakshatra": "Magha",
+                "rashi": "Simha",
+                "moon_longitude": 123.56200022081612
+            },
+            "bride_astrology": {
+                "nakshatra": "Anuradha",
+                "rashi": "Vrishchika",
+                "moon_longitude": 220.24692867559497
+            },
+            "vedic_compatibility": {
+                "score": 14.5,
+                "max_score": 38,
+                "percentage": 38.2,
+                "level": "\u56f0\u96e3\u306a\u76f8\u6027 \u26a0\ufe0f",
+                "gunas": [
+                    {
+                        "name": "Varna",
+                        "score": 1,
+                        "max": 1
+                    },
+                    {
+                        "name": "Vashya",
+                        "score": 0,
+                        "max": 2
+                    },
+                    {
+                        "name": "Tara",
+                        "score": 1.5,
+                        "max": 3
+                    },
+                    {
+                        "name": "Yoni",
+                        "score": 0,
+                        "max": 4
+                    },
+                    {
+                        "name": "Graha Maitri",
+                        "score": 0,
+                        "max": 5
+                    },
+                    {
+                        "name": "Gana",
+                        "score": 0,
+                        "max": 6
+                    },
+                    {
+                        "name": "Rashi",
+                        "score": 2,
+                        "max": 7
+                    },
+                    {
+                        "name": "Nadi",
+                        "score": 8,
+                        "max": 8
+                    },
+                    {
+                        "name": "Rajju",
+                        "score": 2,
+                        "max": 2
+                    }
+                ]
+            },
+            "tamil_compatibility": {
+                "score": 6,
+                "max_score": 10,
+                "percentage": 60,
+                "level": "\u30de\u30c6\u30a3\u30de\u30e0\uff08\u826f\u3044\u76f8\u6027\uff09\ud83d\udcab",
+                "poruthams": [
+                    {
+                        "name": "Dhina Porutham",
+                        "score": 1,
+                        "description": "\u5065\u5eb7\u3068\u7e41\u6804\u306b\u826f\u3044\u5f71\u97ff\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Gana Porutham",
+                        "score": 0,
+                        "description": "\u6c17\u8cea\u306e\u9055\u3044\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Mahendra Porutham",
+                        "score": 0,
+                        "description": "\u5b50\u4f9b\u306e\u898b\u901a\u3057\u306b\u5f71\u97ff\u3059\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Sthree Dheerkam",
+                        "score": 1,
+                        "description": "\u9577\u5bff\u3068\u7e41\u6804\u306b\u826f\u3044\u5f71\u97ff\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Yoni Porutham",
+                        "score": 0,
+                        "description": "\u8eab\u4f53\u7684\u76f8\u6027\u306b\u554f\u984c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Porutham",
+                        "score": 1,
+                        "description": "\u826f\u597d\u306a\u5360\u661f\u8853\u7684\u8abf\u548c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Athipathi Porutham",
+                        "score": 1,
+                        "description": "\u60d1\u661f\u306e\u652f\u914d\u8005\u304c\u76f8\u6027\u826f\u597d\u3067\u3059"
+                    },
+                    {
+                        "name": "Vasiya Porutham",
+                        "score": 0,
+                        "description": "\u81ea\u7136\u306a\u9b45\u529b\u304c\u4e0d\u8db3\u3057\u3066\u3044\u307e\u3059"
+                    },
+                    {
+                        "name": "Rajju Porutham",
+                        "score": 1,
+                        "description": "\u30e9\u30c3\u30b8\u30e5\u30fb\u30c9\u30fc\u30b7\u30e3\u306a\u3057 - \u7d50\u5a5a\u306b\u826f\u597d\u3067\u3059"
+                    },
+                    {
+                        "name": "Vedhai Porutham",
+                        "score": 1,
+                        "description": "\u30f4\u30a7\u30fc\u30c0\u30a4\u306a\u3057 - \u76f8\u6027\u304c\u78ba\u8a8d\u3055\u308c\u307e\u3057\u305f"
+                    }
+                ]
+            },
+            "doshas": [
+                "\ud83d\udd34 \u30de\u30f3\u30b0\u30ea\u30af\u30fb\u30c9\u30fc\u30b7\u30e3\uff1a\u4e21\u8005\u3068\u3082\u306b\u30de\u30f3\u30b0\u30ea\u30af\u3067\u3059\u3002\u540c\u3058\u30a8\u30cd\u30eb\u30ae\u30fc\u3092\u6301\u3064\u305f\u3081\u3001\u6709\u5229\u3068\u3055\u308c\u308b\u5834\u5408\u304c\u3042\u308a\u307e\u3059\u3002",
+                "\ud83d\udfe1 \u30ab\u30e9\u30fb\u30b5\u30eb\u30d1\u30fb\u30c9\u30fc\u30b7\u30e3\uff1a \ud83d\udc68 \u306b\u30ab\u30e9\u30fb\u30b5\u30eb\u30d1\u30fb\u30c9\u30fc\u30b7\u30e3\u306e\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059\u3002"
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-06-28 03:00:57",
+        "id": "match_685f5ae9ac0f35.82394415",
+        "input": {
+            "groom": {
+                "name_hash": "Anonymous",
+                "date": "2025-06-27",
+                "time": "12:22",
+                "prefecture": "\u5c71\u5f62\u770c",
+                "city": "\u5929\u7ae5\u5e02"
+            },
+            "bride": {
+                "name_hash": "Anonymous",
+                "date": "2025-07-05",
+                "time": "06:06",
+                "prefecture": "\u5343\u8449\u770c",
+                "city": "\u52dd\u6d66\u5e02"
+            }
+        },
+        "results": {
+            "groom_astrology": {
+                "nakshatra": "Magha",
+                "rashi": "Simha",
+                "moon_longitude": 123.56200022081612
+            },
+            "bride_astrology": {
+                "nakshatra": "Anuradha",
+                "rashi": "Vrishchika",
+                "moon_longitude": 220.24692867559497
+            },
+            "vedic_compatibility": {
+                "score": 14.5,
+                "max_score": 38,
+                "percentage": 38.2,
+                "level": "\u56f0\u96e3\u306a\u76f8\u6027 \u26a0\ufe0f",
+                "gunas": [
+                    {
+                        "name": "Varna",
+                        "score": 1,
+                        "max": 1
+                    },
+                    {
+                        "name": "Vashya",
+                        "score": 0,
+                        "max": 2
+                    },
+                    {
+                        "name": "Tara",
+                        "score": 1.5,
+                        "max": 3
+                    },
+                    {
+                        "name": "Yoni",
+                        "score": 0,
+                        "max": 4
+                    },
+                    {
+                        "name": "Graha Maitri",
+                        "score": 0,
+                        "max": 5
+                    },
+                    {
+                        "name": "Gana",
+                        "score": 0,
+                        "max": 6
+                    },
+                    {
+                        "name": "Rashi",
+                        "score": 2,
+                        "max": 7
+                    },
+                    {
+                        "name": "Nadi",
+                        "score": 8,
+                        "max": 8
+                    },
+                    {
+                        "name": "Rajju",
+                        "score": 2,
+                        "max": 2
+                    }
+                ]
+            },
+            "tamil_compatibility": {
+                "score": 6,
+                "max_score": 10,
+                "percentage": 60,
+                "level": "\u30de\u30c6\u30a3\u30de\u30e0\uff08\u826f\u3044\u76f8\u6027\uff09\ud83d\udcab",
+                "poruthams": [
+                    {
+                        "name": "Dhina Porutham",
+                        "score": 1,
+                        "description": "\u5065\u5eb7\u3068\u7e41\u6804\u306b\u826f\u3044\u5f71\u97ff\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Gana Porutham",
+                        "score": 0,
+                        "description": "\u6c17\u8cea\u306e\u9055\u3044\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Mahendra Porutham",
+                        "score": 0,
+                        "description": "\u5b50\u4f9b\u306e\u898b\u901a\u3057\u306b\u5f71\u97ff\u3059\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Sthree Dheerkam",
+                        "score": 1,
+                        "description": "\u9577\u5bff\u3068\u7e41\u6804\u306b\u826f\u3044\u5f71\u97ff\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Yoni Porutham",
+                        "score": 0,
+                        "description": "\u8eab\u4f53\u7684\u76f8\u6027\u306b\u554f\u984c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Porutham",
+                        "score": 1,
+                        "description": "\u826f\u597d\u306a\u5360\u661f\u8853\u7684\u8abf\u548c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Athipathi Porutham",
+                        "score": 1,
+                        "description": "\u60d1\u661f\u306e\u652f\u914d\u8005\u304c\u76f8\u6027\u826f\u597d\u3067\u3059"
+                    },
+                    {
+                        "name": "Vasiya Porutham",
+                        "score": 0,
+                        "description": "\u81ea\u7136\u306a\u9b45\u529b\u304c\u4e0d\u8db3\u3057\u3066\u3044\u307e\u3059"
+                    },
+                    {
+                        "name": "Rajju Porutham",
+                        "score": 1,
+                        "description": "\u30e9\u30c3\u30b8\u30e5\u30fb\u30c9\u30fc\u30b7\u30e3\u306a\u3057 - \u7d50\u5a5a\u306b\u826f\u597d\u3067\u3059"
+                    },
+                    {
+                        "name": "Vedhai Porutham",
+                        "score": 1,
+                        "description": "\u30f4\u30a7\u30fc\u30c0\u30a4\u306a\u3057 - \u76f8\u6027\u304c\u78ba\u8a8d\u3055\u308c\u307e\u3057\u305f"
+                    }
+                ]
+            },
+            "doshas": [
+                "\ud83d\udd34 \u30de\u30f3\u30b0\u30ea\u30af\u30fb\u30c9\u30fc\u30b7\u30e3\uff1a\u4e21\u8005\u3068\u3082\u306b\u30de\u30f3\u30b0\u30ea\u30af\u3067\u3059\u3002\u540c\u3058\u30a8\u30cd\u30eb\u30ae\u30fc\u3092\u6301\u3064\u305f\u3081\u3001\u6709\u5229\u3068\u3055\u308c\u308b\u5834\u5408\u304c\u3042\u308a\u307e\u3059\u3002",
+                "\ud83d\udfe1 \u30ab\u30e9\u30fb\u30b5\u30eb\u30d1\u30fb\u30c9\u30fc\u30b7\u30e3\uff1a \ud83d\udc69 \u306b\u30ab\u30e9\u30fb\u30b5\u30eb\u30d1\u30fb\u30c9\u30fc\u30b7\u30e3\u306e\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059\u3002"
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-06-28 04:52:52",
+        "id": "match_685f75246221d3.51619082",
+        "input": {
+            "groom": {
+                "name_hash": "Anonymous",
+                "date": "1996-02-02",
+                "time": "14:04",
+                "prefecture": "\u5927\u5206\u770c",
+                "city": "\u5927\u5206\u5e02"
+            },
+            "bride": {
+                "name_hash": "Anonymous",
+                "date": "2025-06-28",
+                "time": "01:02",
+                "prefecture": "\u5317\u6d77\u9053",
+                "city": "\u4e0a\u5ddd\u90e1\u4e0a\u5ddd\u753a"
+            }
+        },
+        "results": {
+            "groom_astrology": {
+                "nakshatra": "Punarvasu",
+                "rashi": "Mithuna",
+                "moon_longitude": 82.64531356155703
+            },
+            "bride_astrology": {
+                "nakshatra": "Pushya",
+                "rashi": "Karka",
+                "moon_longitude": 94.99745826003254
+            },
+            "vedic_compatibility": {
+                "score": 21.5,
+                "max_score": 38,
+                "percentage": 56.6,
+                "level": "\u666e\u901a\u306e\u76f8\u6027 \u2b50",
+                "gunas": [
+                    {
+                        "name": "Varna",
+                        "score": 0,
+                        "max": 1
+                    },
+                    {
+                        "name": "Vashya",
+                        "score": 0,
+                        "max": 2
+                    },
+                    {
+                        "name": "Tara",
+                        "score": 1.5,
+                        "max": 3
+                    },
+                    {
+                        "name": "Yoni",
+                        "score": 0,
+                        "max": 4
+                    },
+                    {
+                        "name": "Graha Maitri",
+                        "score": 0,
+                        "max": 5
+                    },
+                    {
+                        "name": "Gana",
+                        "score": 6,
+                        "max": 6
+                    },
+                    {
+                        "name": "Rashi",
+                        "score": 4,
+                        "max": 7
+                    },
+                    {
+                        "name": "Nadi",
+                        "score": 8,
+                        "max": 8
+                    },
+                    {
+                        "name": "Rajju",
+                        "score": 2,
+                        "max": 2
+                    }
+                ]
+            },
+            "tamil_compatibility": {
+                "score": 5,
+                "max_score": 10,
+                "percentage": 50,
+                "level": "\u30a2\u30bf\u30de\u30e0\uff08\u8981\u691c\u8a0e\uff09\u26a0\ufe0f",
+                "poruthams": [
+                    {
+                        "name": "Dhina Porutham",
+                        "score": 1,
+                        "description": "\u5065\u5eb7\u3068\u7e41\u6804\u306b\u826f\u3044\u5f71\u97ff\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Gana Porutham",
+                        "score": 1,
+                        "description": "\u512a\u308c\u305f\u6c17\u8cea\u306e\u76f8\u6027\u3067\u3059"
+                    },
+                    {
+                        "name": "Mahendra Porutham",
+                        "score": 0,
+                        "description": "\u5b50\u4f9b\u306e\u898b\u901a\u3057\u306b\u5f71\u97ff\u3059\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Sthree Dheerkam",
+                        "score": 1,
+                        "description": "\u9577\u5bff\u3068\u7e41\u6804\u306b\u826f\u3044\u5f71\u97ff\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Yoni Porutham",
+                        "score": 0,
+                        "description": "\u8eab\u4f53\u7684\u76f8\u6027\u306b\u554f\u984c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Porutham",
+                        "score": 0,
+                        "description": "\u5360\u661f\u8853\u7684\u306a\u4e0d\u9069\u5408\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Athipathi Porutham",
+                        "score": 0,
+                        "description": "\u60d1\u661f\u306e\u652f\u914d\u8005\u306b\u5bfe\u7acb\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Vasiya Porutham",
+                        "score": 0,
+                        "description": "\u81ea\u7136\u306a\u9b45\u529b\u304c\u4e0d\u8db3\u3057\u3066\u3044\u307e\u3059"
+                    },
+                    {
+                        "name": "Rajju Porutham",
+                        "score": 1,
+                        "description": "\u30e9\u30c3\u30b8\u30e5\u30fb\u30c9\u30fc\u30b7\u30e3\u306a\u3057 - \u7d50\u5a5a\u306b\u826f\u597d\u3067\u3059"
+                    },
+                    {
+                        "name": "Vedhai Porutham",
+                        "score": 1,
+                        "description": "\u30f4\u30a7\u30fc\u30c0\u30a4\u306a\u3057 - \u76f8\u6027\u304c\u78ba\u8a8d\u3055\u308c\u307e\u3057\u305f"
+                    }
+                ]
+            },
+            "doshas": [
+                "\ud83d\udd34 \u30de\u30f3\u30b0\u30ea\u30af\u30fb\u30c9\u30fc\u30b7\u30e3\uff1a\ud83d\udc69 \u3055\u3093\u304c\u30de\u30f3\u30b0\u30ea\u30af\u3067\u3059\u3002\u5bfe\u7b56\u3084\u614e\u91cd\u306a\u691c\u8a0e\u304c\u5fc5\u8981\u3068\u306a\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059\u3002",
+                "\ud83d\udfe1 \u30ab\u30e9\u30fb\u30b5\u30eb\u30d1\u30fb\u30c9\u30fc\u30b7\u30e3\uff1a \ud83d\udc68 \u306b\u30ab\u30e9\u30fb\u30b5\u30eb\u30d1\u30fb\u30c9\u30fc\u30b7\u30e3\u306e\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059\u3002"
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-06-28 04:55:35",
+        "id": "match_685f75c7733ed9.12658748",
+        "input": {
+            "groom": {
+                "name_hash": "Anonymous",
+                "date": "1996-02-02",
+                "time": "14:14",
+                "prefecture": "\u5927\u5206\u770c",
+                "city": "\u5927\u5206\u5e02"
+            },
+            "bride": {
+                "name_hash": "Anonymous",
+                "date": "2025-06-28",
+                "time": "01:02",
+                "prefecture": "\u5317\u6d77\u9053",
+                "city": "\u4e0a\u5ddd\u90e1\u5263\u6df5\u753a"
+            }
+        },
+        "results": {
+            "groom_astrology": {
+                "nakshatra": "Punarvasu",
+                "rashi": "Mithuna",
+                "moon_longitude": 82.72796837834909
+            },
+            "bride_astrology": {
+                "nakshatra": "Pushya",
+                "rashi": "Karka",
+                "moon_longitude": 94.99745826003254
+            },
+            "vedic_compatibility": {
+                "score": 21.5,
+                "max_score": 38,
+                "percentage": 56.6,
+                "level": "\u666e\u901a\u306e\u76f8\u6027 \u2b50",
+                "gunas": [
+                    {
+                        "name": "Varna",
+                        "score": 0,
+                        "max": 1
+                    },
+                    {
+                        "name": "Vashya",
+                        "score": 0,
+                        "max": 2
+                    },
+                    {
+                        "name": "Tara",
+                        "score": 1.5,
+                        "max": 3
+                    },
+                    {
+                        "name": "Yoni",
+                        "score": 0,
+                        "max": 4
+                    },
+                    {
+                        "name": "Graha Maitri",
+                        "score": 0,
+                        "max": 5
+                    },
+                    {
+                        "name": "Gana",
+                        "score": 6,
+                        "max": 6
+                    },
+                    {
+                        "name": "Rashi",
+                        "score": 4,
+                        "max": 7
+                    },
+                    {
+                        "name": "Nadi",
+                        "score": 8,
+                        "max": 8
+                    },
+                    {
+                        "name": "Rajju",
+                        "score": 2,
+                        "max": 2
+                    }
+                ]
+            },
+            "tamil_compatibility": {
+                "score": 5,
+                "max_score": 10,
+                "percentage": 50,
+                "level": "\u30a2\u30bf\u30de\u30e0\uff08\u8981\u691c\u8a0e\uff09\u26a0\ufe0f",
+                "poruthams": [
+                    {
+                        "name": "Dhina Porutham",
+                        "score": 1,
+                        "description": "\u5065\u5eb7\u3068\u7e41\u6804\u306b\u826f\u3044\u5f71\u97ff\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Gana Porutham",
+                        "score": 1,
+                        "description": "\u512a\u308c\u305f\u6c17\u8cea\u306e\u76f8\u6027\u3067\u3059"
+                    },
+                    {
+                        "name": "Mahendra Porutham",
+                        "score": 0,
+                        "description": "\u5b50\u4f9b\u306e\u898b\u901a\u3057\u306b\u5f71\u97ff\u3059\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Sthree Dheerkam",
+                        "score": 1,
+                        "description": "\u9577\u5bff\u3068\u7e41\u6804\u306b\u826f\u3044\u5f71\u97ff\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Yoni Porutham",
+                        "score": 0,
+                        "description": "\u8eab\u4f53\u7684\u76f8\u6027\u306b\u554f\u984c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Porutham",
+                        "score": 0,
+                        "description": "\u5360\u661f\u8853\u7684\u306a\u4e0d\u9069\u5408\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Athipathi Porutham",
+                        "score": 0,
+                        "description": "\u60d1\u661f\u306e\u652f\u914d\u8005\u306b\u5bfe\u7acb\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Vasiya Porutham",
+                        "score": 0,
+                        "description": "\u81ea\u7136\u306a\u9b45\u529b\u304c\u4e0d\u8db3\u3057\u3066\u3044\u307e\u3059"
+                    },
+                    {
+                        "name": "Rajju Porutham",
+                        "score": 1,
+                        "description": "\u30e9\u30c3\u30b8\u30e5\u30fb\u30c9\u30fc\u30b7\u30e3\u306a\u3057 - \u7d50\u5a5a\u306b\u826f\u597d\u3067\u3059"
+                    },
+                    {
+                        "name": "Vedhai Porutham",
+                        "score": 1,
+                        "description": "\u30f4\u30a7\u30fc\u30c0\u30a4\u306a\u3057 - \u76f8\u6027\u304c\u78ba\u8a8d\u3055\u308c\u307e\u3057\u305f"
+                    }
+                ]
+            },
+            "doshas": [
+                "\ud83d\udd34 \u30de\u30f3\u30b0\u30ea\u30af\u30fb\u30c9\u30fc\u30b7\u30e3\uff1a\ud83d\udc69 \u3055\u3093\u304c\u30de\u30f3\u30b0\u30ea\u30af\u3067\u3059\u3002\u5bfe\u7b56\u3084\u614e\u91cd\u306a\u691c\u8a0e\u304c\u5fc5\u8981\u3068\u306a\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059\u3002",
+                "\u2705 \u30ab\u30e9\u30fb\u30b5\u30eb\u30d1\u30fb\u30c9\u30fc\u30b7\u30e3\uff1a\u691c\u51fa\u3055\u308c\u307e\u305b\u3093\u3067\u3057\u305f\u3002\u3053\u308c\u306f\u5409\u5146\u3067\u3059\u3002"
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-06-28 04:57:54",
+        "id": "match_685f7652b27fb7.76311271",
+        "input": {
+            "groom": {
+                "name_hash": "Anonymous",
+                "date": "1996-02-02",
+                "time": "14:14",
+                "prefecture": "\u5927\u5206\u770c",
+                "city": "\u5927\u5206\u5e02"
+            },
+            "bride": {
+                "name_hash": "Anonymous",
+                "date": "2025-06-28",
+                "time": "01:02",
+                "prefecture": "\u5317\u6d77\u9053",
+                "city": "\u4e0a\u5ddd\u90e1\u5263\u6df5\u753a"
+            }
+        },
+        "results": {
+            "groom_astrology": {
+                "nakshatra": "Punarvasu",
+                "rashi": "Mithuna",
+                "moon_longitude": 82.72796837834909
+            },
+            "bride_astrology": {
+                "nakshatra": "Punarvasu",
+                "rashi": "Mithuna",
+                "moon_longitude": 89.8802987977972
+            },
+            "vedic_compatibility": {
+                "score": 28,
+                "max_score": 38,
+                "percentage": 73.7,
+                "level": "\u3068\u3066\u3082\u826f\u3044\u76f8\u6027\uff01\ud83d\udcab",
+                "gunas": [
+                    {
+                        "name": "Varna",
+                        "score": 1,
+                        "max": 1
+                    },
+                    {
+                        "name": "Vashya",
+                        "score": 2,
+                        "max": 2
+                    },
+                    {
+                        "name": "Tara",
+                        "score": 3,
+                        "max": 3
+                    },
+                    {
+                        "name": "Yoni",
+                        "score": 4,
+                        "max": 4
+                    },
+                    {
+                        "name": "Graha Maitri",
+                        "score": 5,
+                        "max": 5
+                    },
+                    {
+                        "name": "Gana",
+                        "score": 6,
+                        "max": 6
+                    },
+                    {
+                        "name": "Rashi",
+                        "score": 7,
+                        "max": 7
+                    },
+                    {
+                        "name": "Nadi",
+                        "score": 0,
+                        "max": 8
+                    },
+                    {
+                        "name": "Rajju",
+                        "score": 0,
+                        "max": 2
+                    }
+                ]
+            },
+            "tamil_compatibility": {
+                "score": 5,
+                "max_score": 10,
+                "percentage": 50,
+                "level": "\u30a2\u30bf\u30de\u30e0\uff08\u8981\u691c\u8a0e\uff09\u26a0\ufe0f",
+                "poruthams": [
+                    {
+                        "name": "Dhina Porutham",
+                        "score": 0,
+                        "description": "\u5065\u5eb7\u9762\u3067\u8ab2\u984c\u306b\u76f4\u9762\u3059\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Gana Porutham",
+                        "score": 1,
+                        "description": "\u512a\u308c\u305f\u6c17\u8cea\u306e\u76f8\u6027\u3067\u3059"
+                    },
+                    {
+                        "name": "Mahendra Porutham",
+                        "score": 0,
+                        "description": "\u5b50\u4f9b\u306e\u898b\u901a\u3057\u306b\u5f71\u97ff\u3059\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Sthree Dheerkam",
+                        "score": 0,
+                        "description": "\u9577\u5bff\u306b\u95a2\u3059\u308b\u61f8\u5ff5\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Yoni Porutham",
+                        "score": 0,
+                        "description": "\u8eab\u4f53\u7684\u76f8\u6027\u306b\u554f\u984c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Porutham",
+                        "score": 1,
+                        "description": "\u826f\u597d\u306a\u5360\u661f\u8853\u7684\u8abf\u548c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Athipathi Porutham",
+                        "score": 1,
+                        "description": "\u60d1\u661f\u306e\u652f\u914d\u8005\u304c\u76f8\u6027\u826f\u597d\u3067\u3059"
+                    },
+                    {
+                        "name": "Vasiya Porutham",
+                        "score": 1,
+                        "description": "\u5f37\u3044\u76f8\u4e92\u306e\u9b45\u529b\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rajju Porutham",
+                        "score": 0,
+                        "description": "\u30e9\u30c3\u30b8\u30e5\u30fb\u30c9\u30fc\u30b7\u30e3\u3042\u308a - \u5bfe\u7b56\u304c\u5fc5\u8981\u3067\u3059"
+                    },
+                    {
+                        "name": "Vedhai Porutham",
+                        "score": 1,
+                        "description": "\u30f4\u30a7\u30fc\u30c0\u30a4\u306a\u3057 - \u76f8\u6027\u304c\u78ba\u8a8d\u3055\u308c\u307e\u3057\u305f"
+                    }
+                ]
+            },
+            "doshas": [
+                "\ud83d\udd34 \u30de\u30f3\u30b0\u30ea\u30af\u30fb\u30c9\u30fc\u30b7\u30e3\uff1a\ud83d\udc69 \u3055\u3093\u304c\u30de\u30f3\u30b0\u30ea\u30af\u3067\u3059\u3002\u5bfe\u7b56\u3084\u614e\u91cd\u306a\u691c\u8a0e\u304c\u5fc5\u8981\u3068\u306a\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059\u3002",
+                "\u2705 \u30ab\u30e9\u30fb\u30b5\u30eb\u30d1\u30fb\u30c9\u30fc\u30b7\u30e3\uff1a\u691c\u51fa\u3055\u308c\u307e\u305b\u3093\u3067\u3057\u305f\u3002\u3053\u308c\u306f\u5409\u5146\u3067\u3059\u3002"
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-06-28 04:59:54",
+        "id": "match_685f76ca5b92d8.48564361",
+        "input": {
+            "groom": {
+                "name_hash": "Anonymous",
+                "date": "1996-02-01",
+                "time": "14:04",
+                "prefecture": "\u5927\u5206\u770c",
+                "city": "\u5927\u5206\u5e02"
+            },
+            "bride": {
+                "name_hash": "Anonymous",
+                "date": "2025-06-28",
+                "time": "01:02",
+                "prefecture": "\u5317\u6d77\u9053",
+                "city": "\u4e0a\u5ddd\u90e1\u65b0\u5f97\u753a"
+            }
+        },
+        "results": {
+            "groom_astrology": {
+                "nakshatra": "Ardra",
+                "rashi": "Mithuna",
+                "moon_longitude": 70.76768952513504
+            },
+            "bride_astrology": {
+                "nakshatra": "Punarvasu",
+                "rashi": "Mithuna",
+                "moon_longitude": 89.8802987977972
+            },
+            "vedic_compatibility": {
+                "score": 26.5,
+                "max_score": 38,
+                "percentage": 69.7,
+                "level": "\u3068\u3066\u3082\u826f\u3044\u76f8\u6027\uff01\ud83d\udcab",
+                "gunas": [
+                    {
+                        "name": "Varna",
+                        "score": 1,
+                        "max": 1
+                    },
+                    {
+                        "name": "Vashya",
+                        "score": 2,
+                        "max": 2
+                    },
+                    {
+                        "name": "Tara",
+                        "score": 1.5,
+                        "max": 3
+                    },
+                    {
+                        "name": "Yoni",
+                        "score": 0,
+                        "max": 4
+                    },
+                    {
+                        "name": "Graha Maitri",
+                        "score": 0,
+                        "max": 5
+                    },
+                    {
+                        "name": "Gana",
+                        "score": 5,
+                        "max": 6
+                    },
+                    {
+                        "name": "Rashi",
+                        "score": 7,
+                        "max": 7
+                    },
+                    {
+                        "name": "Nadi",
+                        "score": 8,
+                        "max": 8
+                    },
+                    {
+                        "name": "Rajju",
+                        "score": 2,
+                        "max": 2
+                    }
+                ]
+            },
+            "tamil_compatibility": {
+                "score": 8,
+                "max_score": 10,
+                "percentage": 80,
+                "level": "\u30a6\u30c3\u30bf\u30de\u30e0\uff08\u975e\u5e38\u306b\u826f\u3044\u76f8\u6027\uff09\ud83c\udf1f",
+                "poruthams": [
+                    {
+                        "name": "Dhina Porutham",
+                        "score": 1,
+                        "description": "\u5065\u5eb7\u3068\u7e41\u6804\u306b\u826f\u3044\u5f71\u97ff\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Gana Porutham",
+                        "score": 1,
+                        "description": "\u512a\u308c\u305f\u6c17\u8cea\u306e\u76f8\u6027\u3067\u3059"
+                    },
+                    {
+                        "name": "Mahendra Porutham",
+                        "score": 0,
+                        "description": "\u5b50\u4f9b\u306e\u898b\u901a\u3057\u306b\u5f71\u97ff\u3059\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Sthree Dheerkam",
+                        "score": 1,
+                        "description": "\u9577\u5bff\u3068\u7e41\u6804\u306b\u826f\u3044\u5f71\u97ff\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Yoni Porutham",
+                        "score": 0,
+                        "description": "\u8eab\u4f53\u7684\u76f8\u6027\u306b\u554f\u984c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Porutham",
+                        "score": 1,
+                        "description": "\u826f\u597d\u306a\u5360\u661f\u8853\u7684\u8abf\u548c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Athipathi Porutham",
+                        "score": 1,
+                        "description": "\u60d1\u661f\u306e\u652f\u914d\u8005\u304c\u76f8\u6027\u826f\u597d\u3067\u3059"
+                    },
+                    {
+                        "name": "Vasiya Porutham",
+                        "score": 1,
+                        "description": "\u5f37\u3044\u76f8\u4e92\u306e\u9b45\u529b\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rajju Porutham",
+                        "score": 1,
+                        "description": "\u30e9\u30c3\u30b8\u30e5\u30fb\u30c9\u30fc\u30b7\u30e3\u306a\u3057 - \u7d50\u5a5a\u306b\u826f\u597d\u3067\u3059"
+                    },
+                    {
+                        "name": "Vedhai Porutham",
+                        "score": 1,
+                        "description": "\u30f4\u30a7\u30fc\u30c0\u30a4\u306a\u3057 - \u76f8\u6027\u304c\u78ba\u8a8d\u3055\u308c\u307e\u3057\u305f"
+                    }
+                ]
+            },
+            "doshas": [
+                "\ud83d\udd34 \u30de\u30f3\u30b0\u30ea\u30af\u30fb\u30c9\u30fc\u30b7\u30e3\uff1a\ud83d\udc69 \u3055\u3093\u304c\u30de\u30f3\u30b0\u30ea\u30af\u3067\u3059\u3002\u5bfe\u7b56\u3084\u614e\u91cd\u306a\u691c\u8a0e\u304c\u5fc5\u8981\u3068\u306a\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059\u3002",
+                "\u2705 \u30ab\u30e9\u30fb\u30b5\u30eb\u30d1\u30fb\u30c9\u30fc\u30b7\u30e3\uff1a\u691c\u51fa\u3055\u308c\u307e\u305b\u3093\u3067\u3057\u305f\u3002\u3053\u308c\u306f\u5409\u5146\u3067\u3059\u3002"
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-06-28 08:10:16",
+        "id": "match_685fa3685d9993.62589149",
+        "input": {
+            "groom": {
+                "name_hash": "Anonymous",
+                "date": "1996-02-01",
+                "time": "14:04",
+                "prefecture": "\u5927\u5206\u770c",
+                "city": "\u5927\u5206\u5e02"
+            },
+            "bride": {
+                "name_hash": "Anonymous",
+                "date": "2025-06-28",
+                "time": "01:02",
+                "prefecture": "\u5317\u6d77\u9053",
+                "city": "\u4e0a\u5ddd\u90e1\u65b0\u5f97\u753a"
+            }
+        },
+        "results": {
+            "groom_astrology": {
+                "nakshatra": "Ardra",
+                "rashi": "Mithuna",
+                "moon_longitude": 75.91593276403017
+            },
+            "bride_astrology": {
+                "nakshatra": "Pushya",
+                "rashi": "Karka",
+                "moon_longitude": 102.89296430343654
+            },
+            "vedic_compatibility": {
+                "score": 24,
+                "max_score": 38,
+                "percentage": 63.2,
+                "level": "\u975e\u5e38\u306b\u826f\u3044",
+                "gunas": [
+                    {
+                        "name": "Varna",
+                        "score": 1,
+                        "max": 1,
+                        "description": "\u7cbe\u795e\u7684\u306a\u76f8\u6027\u304c\u5b8c\u74a7\u3067\u3059"
+                    },
+                    {
+                        "name": "Vashya",
+                        "score": 0,
+                        "max": 2,
+                        "description": "\u81ea\u7136\u306a\u9b45\u529b\u304c\u4e0d\u8db3\u3057\u3066\u3044\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Tara",
+                        "score": 3,
+                        "max": 3,
+                        "description": "\u7e41\u6804\u3068\u5e78\u798f\u306b\u975e\u5e38\u306b\u6709\u5229"
+                    },
+                    {
+                        "name": "Yoni",
+                        "score": 2,
+                        "max": 4,
+                        "description": "\u826f\u597d\u306a\u8eab\u4f53\u7684\u76f8\u6027"
+                    },
+                    {
+                        "name": "Graha Maitri",
+                        "score": 0,
+                        "max": 5,
+                        "description": "\u7cbe\u795e\u7684\u76f8\u6027\u306b\u8ab2\u984c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Gana",
+                        "score": 5,
+                        "max": 6,
+                        "description": "\u826f\u597d\u306a\u6c17\u8cea\u306e\u76f8\u6027"
+                    },
+                    {
+                        "name": "Rashi",
+                        "score": 3,
+                        "max": 7,
+                        "description": "\u826f\u597d\u306a\u5168\u4f53\u7684\u76f8\u6027"
+                    },
+                    {
+                        "name": "Nadi",
+                        "score": 8,
+                        "max": 8,
+                        "description": "\u5065\u5eb7\u306a\u5b50\u5b6b\u3068\u9577\u5bff\u306b\u5b8c\u74a7"
+                    },
+                    {
+                        "name": "Rajju",
+                        "score": 2,
+                        "max": 2,
+                        "description": "\u30e9\u30c3\u30b8\u30e5\u30fb\u30c9\u30fc\u30b7\u30e3\u306a\u3057 - \u9577\u5bff\u306b\u6709\u5229"
+                    }
+                ]
+            },
+            "tamil_compatibility": {
+                "score": 4,
+                "max_score": 10,
+                "percentage": 40,
+                "level": "\u5e73\u5747",
+                "poruthams": [
+                    {
+                        "name": "Dhina Porutham",
+                        "score": 0,
+                        "description": "\u5065\u5eb7\u9762\u3067\u8ab2\u984c\u306b\u76f4\u9762\u3059\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Gana Porutham",
+                        "score": 1,
+                        "description": "\u512a\u308c\u305f\u6c17\u8cea\u306e\u76f8\u6027\u3067\u3059"
+                    },
+                    {
+                        "name": "Mahendra Porutham",
+                        "score": 0,
+                        "description": "\u5b50\u4f9b\u306e\u898b\u901a\u3057\u306b\u5f71\u97ff\u3059\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Sthree Dheerkam",
+                        "score": 1,
+                        "description": "\u9577\u5bff\u3068\u7e41\u6804\u306b\u826f\u3044\u5f71\u97ff\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Yoni Porutham",
+                        "score": 0,
+                        "description": "\u8eab\u4f53\u7684\u76f8\u6027\u306b\u554f\u984c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Porutham",
+                        "score": 0,
+                        "description": "\u5360\u661f\u8853\u7684\u306a\u4e0d\u9069\u5408\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Athipathi Porutham",
+                        "score": 0,
+                        "description": "\u60d1\u661f\u306e\u652f\u914d\u8005\u306b\u5bfe\u7acb\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Vasiya Porutham",
+                        "score": 0,
+                        "description": "\u81ea\u7136\u306a\u9b45\u529b\u304c\u4e0d\u8db3\u3057\u3066\u3044\u307e\u3059"
+                    },
+                    {
+                        "name": "Rajju Porutham",
+                        "score": 1,
+                        "description": "\u30e9\u30c3\u30b8\u30e5\u30fb\u30c9\u30fc\u30b7\u30e3\u306a\u3057 - \u7d50\u5a5a\u306b\u826f\u597d\u3067\u3059"
+                    },
+                    {
+                        "name": "Vedhai Porutham",
+                        "score": 1,
+                        "description": "\u30f4\u30a7\u30fc\u30c0\u30a4\u306a\u3057 - \u76f8\u6027\u304c\u78ba\u8a8d\u3055\u308c\u307e\u3057\u305f"
+                    }
+                ]
+            },
+            "doshas": []
+        }
+    },
+    {
+        "timestamp": "2025-06-30 07:50:52",
+        "id": "match_686241dccc4ef1.61815292",
+        "input": {
+            "groom": {
+                "name_hash": "Anonymous",
+                "date": "2025-06-03",
+                "time": "07:59",
+                "prefecture": "\u7fa4\u99ac\u770c",
+                "city": "\u5317\u7fa4\u99ac\u90e1\u5409\u5ca1\u753a"
+            },
+            "bride": {
+                "name_hash": "Anonymous",
+                "date": "2025-06-13",
+                "time": "06:06",
+                "prefecture": "\u6803\u6728\u770c",
+                "city": "\u6cb3\u5185\u90e1\u4e0a\u4e09\u5ddd\u753a"
+            }
+        },
+        "results": {
+            "groom_astrology": {
+                "nakshatra": "Purva Phalguni",
+                "rashi": "Simha",
+                "moon_longitude": 137.59272902536364
+            },
+            "bride_astrology": {
+                "nakshatra": "Purva Ashadha",
+                "rashi": "Dhanus",
+                "moon_longitude": 257.1439904297529
+            },
+            "vedic_compatibility": {
+                "score": 23,
+                "max_score": 38,
+                "percentage": 60.5,
+                "level": "\u975e\u5e38\u306b\u826f\u3044",
+                "gunas": [
+                    {
+                        "name": "Varna",
+                        "score": 1,
+                        "max": 1,
+                        "description": "\u7cbe\u795e\u7684\u306a\u76f8\u6027\u304c\u5b8c\u74a7\u3067\u3059"
+                    },
+                    {
+                        "name": "Vashya",
+                        "score": 0,
+                        "max": 2,
+                        "description": "\u81ea\u7136\u306a\u9b45\u529b\u304c\u4e0d\u8db3\u3057\u3066\u3044\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Tara",
+                        "score": 3,
+                        "max": 3,
+                        "description": "\u7e41\u6804\u3068\u5e78\u798f\u306b\u975e\u5e38\u306b\u6709\u5229"
+                    },
+                    {
+                        "name": "Yoni",
+                        "score": 2,
+                        "max": 4,
+                        "description": "\u826f\u597d\u306a\u8eab\u4f53\u7684\u76f8\u6027"
+                    },
+                    {
+                        "name": "Graha Maitri",
+                        "score": 4,
+                        "max": 5,
+                        "description": "\u826f\u597d\u306a\u7cbe\u795e\u7684\u3064\u306a\u304c\u308a"
+                    },
+                    {
+                        "name": "Gana",
+                        "score": 6,
+                        "max": 6,
+                        "description": "\u5b8c\u74a7\u306a\u6c17\u8cea\u306e\u9069\u5408"
+                    },
+                    {
+                        "name": "Rashi",
+                        "score": 5,
+                        "max": 7,
+                        "description": "\u826f\u597d\u306a\u5168\u4f53\u7684\u76f8\u6027"
+                    },
+                    {
+                        "name": "Nadi",
+                        "score": 0,
+                        "max": 8,
+                        "description": "\u30ca\u30c7\u30a3\u30fb\u30c9\u30fc\u30b7\u30e3 - \u5065\u5eb7\u3068\u5b50\u4f9b\u306b\u5f71\u97ff\u3059\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rajju",
+                        "score": 2,
+                        "max": 2,
+                        "description": "\u30e9\u30c3\u30b8\u30e5\u30fb\u30c9\u30fc\u30b7\u30e3\u306a\u3057 - \u9577\u5bff\u306b\u6709\u5229"
+                    }
+                ]
+            },
+            "tamil_compatibility": {
+                "score": 6,
+                "max_score": 10,
+                "percentage": 60,
+                "level": "\u975e\u5e38\u306b\u826f\u3044",
+                "poruthams": [
+                    {
+                        "name": "Dhina Porutham",
+                        "score": 0,
+                        "description": "\u5065\u5eb7\u9762\u3067\u8ab2\u984c\u306b\u76f4\u9762\u3059\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Gana Porutham",
+                        "score": 1,
+                        "description": "\u512a\u308c\u305f\u6c17\u8cea\u306e\u76f8\u6027\u3067\u3059"
+                    },
+                    {
+                        "name": "Mahendra Porutham",
+                        "score": 1,
+                        "description": "\u5b50\u5b6b\u306b\u6709\u5229\u3067\u3059"
+                    },
+                    {
+                        "name": "Sthree Dheerkam",
+                        "score": 1,
+                        "description": "\u9577\u5bff\u3068\u7e41\u6804\u306b\u826f\u3044\u5f71\u97ff\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Yoni Porutham",
+                        "score": 0,
+                        "description": "\u8eab\u4f53\u7684\u76f8\u6027\u306b\u554f\u984c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Porutham",
+                        "score": 1,
+                        "description": "\u826f\u597d\u306a\u5360\u661f\u8853\u7684\u8abf\u548c\u304c\u3042\u308a\u307e\u3059"
+                    },
+                    {
+                        "name": "Rasi Athipathi Porutham",
+                        "score": 1,
+                        "description": "\u60d1\u661f\u306e\u652f\u914d\u8005\u304c\u76f8\u6027\u826f\u597d\u3067\u3059"
+                    },
+                    {
+                        "name": "Vasiya Porutham",
+                        "score": 0,
+                        "description": "\u81ea\u7136\u306a\u9b45\u529b\u304c\u4e0d\u8db3\u3057\u3066\u3044\u307e\u3059"
+                    },
+                    {
+                        "name": "Rajju Porutham",
+                        "score": 0,
+                        "description": "\u30e9\u30c3\u30b8\u30e5\u30fb\u30c9\u30fc\u30b7\u30e3\u3042\u308a - \u5bfe\u7b56\u304c\u5fc5\u8981\u3067\u3059"
+                    },
+                    {
+                        "name": "Vedhai Porutham",
+                        "score": 1,
+                        "description": "\u30f4\u30a7\u30fc\u30c0\u30a4\u306a\u3057 - \u76f8\u6027\u304c\u78ba\u8a8d\u3055\u308c\u307e\u3057\u305f"
+                    }
+                ]
+            },
+            "doshas": [
+                "\u30ca\u30c7\u30a3\u30fb\u30c9\u30fc\u30b7\u30e3: \u540c\u3058\u30ca\u30c7\u30a3\u306b\u5c5e\u3059\u308b\u305f\u3081\u3001\u5065\u5eb7\u3068\u5b50\u5b6b\u306b\u5f71\u97ff\u304c\u3042\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059\u3002"
+            ]
+        }
+    }
+]
